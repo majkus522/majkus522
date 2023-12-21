@@ -12,7 +12,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-<span>
+<span style="display: flex;">
 	<img height="175em" src="https://github-readme-stats-nine-gamma-57.vercel.app/api?username=majkus522&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 	<img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=majkus522&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
 </span>
